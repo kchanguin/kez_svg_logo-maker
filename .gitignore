@@ -1,0 +1,4 @@
+//This file helps which files my Git should ignore
+
+.DS_Store
+.node_modules
